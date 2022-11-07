@@ -20,19 +20,19 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/c/HwModsWa857' // ubah aia
 global.ig = 'https://www.instagram.com/hikal_857/?hl=id' // ubah aja
-global.email = 'denyp857@gmail.com'
+global.email = 'shintyaap857@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'HW MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '𝙎𝙝𝙞𝙣𝙩𝙮𝙖𝙖 𝙈𝙤𝙙𝙙𝙚𝙧' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '𝙎𝙝𝙞𝙣𝙩𝙮𝙖𝙖 𝙈𝙤𝙙𝙙𝙚𝙧' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '𝙎𝙝𝙞𝙣𝙩𝙮𝙖𝙖 𝙈𝙤𝙙𝙙𝙚𝙧' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281214281312'] // ubah aja pake nomor lu
-global.premium = ['6281214281312'] // ubah aja pake nomor lu
-global.packname = 'HW MODS WA' // ubah aja
-global.ownerr = ['HW MODS WA'] // ubaha aja
-global.author = 'HW MODS WA' //ubah aja
+global.owner = ['6283893377366'] // ubah aja pake nomor lu
+global.premium = ['6283893377366'] // ubah aja pake nomor lu
+global.packname = '𝙎𝙝𝙞𝙣𝙩𝙮𝙖𝙖 𝙈𝙤𝙙𝙙𝙚𝙧' // ubah aja
+global.ownerr = ['✞︎𝘚𝘩𝘪𝘯𝘯𝘵𝘺𝘢 𝘊𝘢𝘯𝘴✞︎'] // ubaha aja
+global.author = '𝘞𝘩𝘢𝘴𝘵𝘢𝘱𝘱 𝘉𝘰𝘵🐣' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
